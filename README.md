@@ -1,2 +1,2 @@
-# azure_ml
-Tutorials and scripts for training machine learning models using Azure ML
+# ESO_uves
+Development of machine learning models for Astronomy
